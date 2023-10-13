@@ -1,0 +1,50 @@
+*, body{
+    margin: 0;
+    padding: 0;
+}
+
+.formulary{
+    padding: 30%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+    padding-right: 37%;
+}
+
+.form{
+    width: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.form .form-input{
+    padding: 2px;
+    margin: 5px;
+}
+
+label{
+    text-align: left;
+}
+
+input[type='text'],input[type='email'], select{
+    padding:4px;
+    width: 200px;
+    float: right;
+}
+
+input[type='checkbox']{
+    padding:4px;
+    margin-left: 10px;
+}
+
+input[type='submit']{
+    padding: 4px;
+    margin: 5px;
+}
+
+#result{
+    text-align: center;
+    padding: 50px;
+    border-radius: 5px;
+
+}

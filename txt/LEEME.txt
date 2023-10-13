@@ -1,7 +1,7 @@
 ------------------------------------------------------------------
 Lo primero es traer el repositorio a tu PC o notebook
 la ruta es
-git clone https://github.com/jordanaguileralabra/Envio.git
+git clone https://github.com/jordanaguileralabra/prueba-php.git
 esto primero abriendo con CMD en la carpeta
 
 ------------------------------------------------------------------
@@ -13,8 +13,8 @@ para poder ejecutar en MySQL.
 
 ------------------------------------------------------------------
 Luego es importante que si tiene XAMPP o WAMPSERVER, lo guarde en el directorio correspondiente, en este caso 
-debe ser en la carpeta www
+debe ser en la carpeta www del WAMP de ser. 
 
 -------------------------------------------------------------------
-Ingresar a la URL localhost/TRABAJO -> esto le abrira el formulario de votacion.
+Ingresar a la URL localhost/prueba-php -> esto le abrira el formulario de votacion.
 
